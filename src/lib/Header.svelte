@@ -7,7 +7,7 @@
 >
 	<button on:click class="flex items-center mb-4 md:mb-0 text-white/70">
 		<TvIcon />
-		<div class="text-2xl md:text-xl font-bold ml-2">Watch This by Ross</div>
+		<div class="text-2xl md:text-xl font-bold ml-2">Watch This by TSI</div>
 	</button>
 <!-- 	<a
 		class="bg-white/20 hover:bg-white/50 shadow text-white hover:text-pink-600 font-medium rounded p-2 text-sm flex items-center"
